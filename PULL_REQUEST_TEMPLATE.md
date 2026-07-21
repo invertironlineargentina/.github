@@ -4,7 +4,7 @@
 -->
 
 ## 🎫 Jira
-<!-- https://jira-iol.atlassian.net/browse/EQUIPO-XXXX -->
+<!-- https://jira-iol.atlassian.net/browse/EQUIPO-1234 -->
 
 ## 📋 Qué hace este cambio
 <!-- Descripción breve del cambio y su motivación -->
