@@ -9,6 +9,12 @@
 ## 📋 Qué hace este cambio
 <!-- Descripción breve del cambio y su motivación -->
 
+## 📊 Impacto estimado
+- [ ] Nulo
+- [ ] Bajo
+- [ ] Medio
+- [ ] Alto
+
 ## 🧪 Cómo probarlo
 <!-- Pasos para reproducir y validar el comportamiento en HOMO -->
 
